@@ -1,0 +1,8 @@
+{
+  "name": "Elite Terminal Toolkit",
+  "description": "Elite Terminal Toolkit and Bypass Injector HUD",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
